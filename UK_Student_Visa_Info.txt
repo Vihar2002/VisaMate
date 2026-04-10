@@ -1,0 +1,63 @@
+# ==============================================================
+# UNITED KINGDOM  —  STUDENT VISA  (Student Route, Tier 4)
+# Source Consolidation Date: 2025-04-10
+# Primary Sources:
+#   • GOV.UK “Student visa: Overview”  (March 2025)
+#   • UKVI Caseworker Guidance – Student Route (version 16.0)
+#   • Immigration Rules Appendix Student  (Feb 2025)
+# ==============================================================
+
+SECTION 1 · PURPOSE & VALIDITY
+A UK Student Visa allows full-time study in the UK for courses longer than 6 months.
+Visa length = course length + 4 additional months (≤ PhD) or +2 months (sub-degree).
+Holders may work **up to 20 hours/week** in term time and full-time in vacation.
+
+SECTION 2 · DOCUMENT CHECKLIST
+1. **CAS (Confirmation of Acceptance for Studies)** reference number issued by the sponsoring institution.  
+2. **Passport** valid for the duration of stay + one blank page.  
+3. **Financial proof**:  
+   • Tuition fees for first year (minus any paid deposit).  
+   • **Living funds** held for ≥ 28 days:  
+     – **£1 334 per month** (up to 9 months) if studying in Greater London.  
+     – **£1 023 per month** if outside London.  
+   • Allowed formats: bank statements, loan letter, or official sponsorship letter.  
+4. **English language evidence**: IELTS, Pearson PTE, or UKVI-approved SELT meeting CEFR B2 (degree level) or B1 (below degree).  
+5. **Tuberculosis (TB) test certificate** if resident of a listed country.  
+6. **ATAS certificate** (where required for sensitive courses).  
+7. **Parental consent** (if applicant is under 18).
+
+SECTION 3 · FEES & SURCHARGES
+• **Visa application fee**: **£490** (outside UK) or £490 (in-country switch/extend).  
+• **Immigration Health Surcharge (IHS)**: **£776 per year** of visa validity, paid up-front.  
+• Priority visa upgrade (optional): £500 (5-day), £1 000 (next-day) — availability varies.
+
+SECTION 4 · APPLICATION TIMELINE
+1. **Earliest application**: 6 months before course start (out-of-country) or 3 months (in-country).  
+2. Complete online application and pay fees.  
+3. Upload supporting documents or attend **UKVCAS / VAC** for scanning.  
+4. Attend biometric appointment (fingerprints + photo).  
+5. Average decision time: **3 weeks** (standard service), excluding shipping of BRP.  
+6. Collect Biometric Residence Permit (BRP) within 10 days of arrival.
+
+SECTION 5 · WORK CONDITIONS
+• **Term-time limit**: 20 hours/week for degree level and above, 10 hours/week for below degree.  
+• **Vacation**: full-time work permitted.  
+• No self-employment, no professional sport, no permanent positions.  
+• Sandwich-placement courses: up to 50% of course duration may be work placement if integral.
+
+SECTION 6 · DEPENDANTS
+• Allowed for postgraduate courses ≥ 9 months at HESA-registered providers or government-sponsored students.  
+• Dependants must show £845/month (London) or £680/month (outside) for living costs.
+
+SECTION 7 · EXTENSIONS & POST-STUDY ROUTES
+• Switch to Graduate Visa for 2 years (3 years for PhD) within UK before student visa expires.  
+• CAS required for extensions of continued study.
+
+SECTION 8 · COMMON REFUSAL REASONS
+• Insufficient maintenance funds or funds not held for full 28-day period.  
+• CAS mismatch (course dates, fees, or sponsorship status).  
+• Invalid or expired TB certificate.  
+• Incomplete documentary evidence in formats specified by UKVI.
+
+CITATION BLOCK
+All information pulled from: GOV.UK “Student Visa” guidance (March 2025), UKVI Student Route Caseworker Guidance v16.0 (2025), and Immigration Rules Appendix Student (Feb 2025).
